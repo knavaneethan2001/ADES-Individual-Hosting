@@ -1,0 +1,24 @@
+/* 
+Saizeriya Color Scheme 
+White #ffffff / rgb(255, 255, 255)
+Red #ec1c2a / rgb(236, 28, 42)
+Green #12af54 / rgb(18, 175, 84)
+*/
+
+body {
+    background-color: #ffffff;
+    margin: 0;
+}
+
+header {
+    overflow: hidden;
+    background: rgba(75, 42, 19, 0.7);
+    border-bottom: 4px solid #ec1c2a;
+    margin-bottom: 1em;
+}
+
+header img {
+    max-width: 8em;
+    display: block;
+    margin: 1em auto 1em auto
+}
